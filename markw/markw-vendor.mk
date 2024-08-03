@@ -598,6 +598,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/markw/proprietary/vendor/lib/libqti-util-vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqti-util-vendor.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libqti-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqti-util.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libremosaic_daemon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libremosaic_daemon.so \
+    vendor/xiaomi/markw/proprietary/vendor/lib/librs_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/librs_adreno.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libscalar.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscalar.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libseemore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libseemore.so \
     vendor/xiaomi/markw/proprietary/vendor/lib/libsensor1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensor1.so \
@@ -763,6 +764,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/markw/proprietary/vendor/lib64/libril-qc-logger.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril-qc-logger.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/librilqmiservices.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librilqmiservices.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/librpmb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librpmb.so \
+    vendor/xiaomi/markw/proprietary/vendor/lib64/librs_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librs_adreno.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/libscalar.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libscalar.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/libsdedrm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdedrm.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/libsdm-color.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-color.so \
